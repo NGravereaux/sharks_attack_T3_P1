@@ -1,3 +1,5 @@
+![shark attack project](https://www.sharkattackfile.net/images/sharks/SHKGRF-14.jpg "Shark Attack Project Image")
+
 # Business Scenario
 You run a cruise travel company that is experiencing a decline in customers due to the frequent reporting of shark attacks worldwide. The negative media coverage is affecting customer perceptions and leading to a loss in business.
 # Problem Statement
