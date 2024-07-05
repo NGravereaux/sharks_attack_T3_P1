@@ -11,18 +11,6 @@ def column_names(df):
                   for column in df.columns]
     return df.columns
 
-# Define categorical and numerical data
-
-
-def extract_categorical_data(df):
-    categorical_columns = ["Type", "Country", "State",
-                           "Location", "Activity", "Name", "Sex", "Injury", "Source"]
-    return df[categorical_columns]
-
-
-def extract_numerical_data(df):
-    numerical_columns = ["Date", "Year", "Age", "Time"]
-    return df[numerical_columns]
 
 # Columns: drop the columns with NaN
 
